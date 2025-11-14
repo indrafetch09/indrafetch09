@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=CaskadiyaMono+Nerd+font&weight=500&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=1000&height=80&lines=Hi%2C+my+name+is+Indra;I+always+have+ideas+to+do;Let's+see+what+i've+been+working%F0%9F%98%8A)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=CaskadiyaMono+Nerd+font&weight=500&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=800&height=80&lines=Hi%2C+my+name+is+Indra%F0%9F%91%8B;I'm+doing+a+good+things)](https://git.io/typing-svg)
 
 
 ## 🔧 I'm currently with:
