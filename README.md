@@ -13,7 +13,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-505050?style=for-the-badge&logo=arch-linux&logoColor) ![Windows](https://img.shields.io/badge/Windows-505050?style=for-the-badge&logo=windows&logoColor) ![VScode](https://img.shields.io/badge/VSCode-505050?style=for-the-badge&logo=visual-studio-code&logoColor) 
 
 
-## 📊 GitHub Stats & Streaks:
+## 📊 GitHub Stat & Graph:
 
 ![](https://github-readme-stats.vercel.app/api?username=indrafetch09&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
