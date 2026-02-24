@@ -1,7 +1,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 ## 🔧 I'm currently with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-505050?style=for-the-badge&logo=javascript&logoColor=)  ![PHP](https://img.shields.io/badge/PHP-505050?style=for-the-badge&logo=php&logoColor) ![Python](https://img.shields.io/badge/Python-505050?style=for-the-badge&logo=python&logoColor=) ![React](https://img.shields.io/badge/React-505050?style=for-the-badge&logo=react&logoColor) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-505050?style=for-the-badge&logo=tailwind-css&logoColor) 
