@@ -1,5 +1,4 @@
 <!--START_SECTION:waka-->
-WakaTime
 <!--END_SECTION:waka-->
 
 ## 🔧 I'm currently with:
