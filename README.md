@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-# Weekly Development Breakdown
+## Weekly Development Breakdown
 ```txt
 From: 17 February 2026 - To: 24 February 2026
 
@@ -19,7 +19,7 @@ TypeScript   0 secs                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-# 📊 GitHub Stat & Graph:
+## 📊 GitHub Stat & Graph:
 
 ![](https://github-readme-stats.vercel.app/api?username=indrafetch09&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
