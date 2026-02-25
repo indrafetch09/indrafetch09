@@ -20,3 +20,5 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
           SHOW_TITLE: true
+          SHOW_OS: true
+          
